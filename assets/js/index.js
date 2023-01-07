@@ -13,6 +13,3 @@ document.getElementById('formBtn').addEventListener('click',function(){
     }
 
 })
-document.getElementById('depositeBtn').addEventListener('click',function(){
-    console.log("done");
-})
